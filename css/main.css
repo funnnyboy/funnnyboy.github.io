@@ -1680,7 +1680,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #00aa1c;
+  background: #67ff04;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2062,9 +2062,6 @@ pre .javascript .function {
 .theme-next .this_ua.browser.QQBrowser {
   background-color: #78ace9 !important;
   border-color: #4cae4c !important;
-}
-.theme-next #ds-thread #ds-reset .ds-powered-by {
-  display: none;
 }
 .cloud-tie-wrapper img {
   display: inline-block;
