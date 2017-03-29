@@ -659,8 +659,8 @@ pre .javascript .function {
 @media (min-width: 992px) {
   .full-image.full-image.full-image {
     max-width: none;
-    width: 126%;
-    margin: 0 -13%;
+    width: 110%;
+    margin: 25px -5%;
   }
 }
 .blockquote-center,
@@ -1428,6 +1428,11 @@ pre .javascript .function {
   background: #222;
   border-radius: 0;
   line-height: 2;
+  margin: 0 4px 8px 4px;
+}
+.post-more-link .fa-fw {
+  width: 1.285714285714286em;
+  text-align: left;
 }
 .posts-expand .post-tags {
   margin-top: 40px;
@@ -1680,7 +1685,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffc4;
+  background: #8379ff;
 }
 .links-of-blogroll {
   font-size: 13px;
